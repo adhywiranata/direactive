@@ -1,3 +1,3 @@
 # Direactive
 
-> Directive provider component for Each
+> Directive provider component for React
