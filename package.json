@@ -1,0 +1,30 @@
+{
+  "name": "direactive",
+  "version": "0.1.0",
+  "description": "Directive provider as React Component",
+  "scripts": {
+    "test": "jest --watch",
+    "test:ci": "jest --coverage",
+    "build": "microbundle --jsx React.createElement"
+  },
+  "source": "src/index.ts",
+  "main": "dist/direactive.js",
+  "module": "dist/direactive.module.js",
+  "unpkg": "dist/direactive.umd.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^10.4.9",
+    "@types/jest": "^26.0.10",
+    "@types/react": "^16.9.47",
+    "jest": "^26.4.2",
+    "microbundle": "^0.12.3",
+    "react-dom": "^16.13.1",
+    "ts-jest": "^26.2.0"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
