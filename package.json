@@ -1,7 +1,8 @@
 {
   "name": "direactive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Directive provider as React Component",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "jest --watch",
     "test:ci": "jest --coverage",

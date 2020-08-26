@@ -6,7 +6,7 @@ const Direactive = ({
   children,
   drIf = true,
   drFor = [],
-  dForKey = 'direactiveProps',
+  dForKey = 'drdata',
   ...props
 }: DireactiveProps): React.ReactElement | null => {
   if (drIf) {
