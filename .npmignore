@@ -1,0 +1,7 @@
+coverage
+node_modules
+__tests__
+src
+.babelrc
+jest.config.js
+jest.setup.js
