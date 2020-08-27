@@ -1,5 +1,5 @@
 {
-  "name": "@adhywiranata/direactive",
+  "name": "direactive",
   "version": "0.1.1",
   "description": "Directive provider as React Component",
   "scripts": {
