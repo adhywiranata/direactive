@@ -1,8 +1,7 @@
 {
-  "name": "direactive",
+  "name": "@adhywiranata/direactive",
   "version": "0.1.1",
   "description": "Directive provider as React Component",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "jest --coverage",
     "test:watch": "jest --watch",
